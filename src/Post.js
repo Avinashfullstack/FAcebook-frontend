@@ -13,7 +13,7 @@ function Post({ profilePic, image, userName, timeStamp, message }) {
 			<div className="post__top">
 				<Avatar src={profilePic} className="post__topInfo" />
 				<h3>{userName}</h3>
-				<p>timestamp.........</p>
+				<p>timestamp.......</p>
 			</div>
 			<div className="post__bottom">
 				<p>{message}</p>
