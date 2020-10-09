@@ -9,7 +9,7 @@ function Widgets() {
 				url="http://www.youtube.com/embed/xDMP3i36naA"
 				width="340"
 				height="100%"
-				style={{ border: 'none', overflow: 'hidden' }}
+				style={{ border: 'none', overflow:'hidden' }}
 				scrolling="no"
 				frameBorder="0"
 				allowTransparency="true"
